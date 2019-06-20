@@ -14,8 +14,8 @@
         <translation>Acerca de</translation>
     </message>
     <message>
-        <source>LMMS - easy music production for everyone</source>
-        <translation>LMMS - producción musical fácil al alcance de todos</translation>
+        <source>LMMS - Easy music production for everyone</source>
+        <translation>LMMS - Producción musical fácil al alcance de todos</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -48,7 +48,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>Contributors ordered by number of commits:</source>
-        <translation>Colaboradores (ordenados por el número de contribuciones):</translation>
+        <translation>Colaboradores ordenados por el número de contribuciones:</translation>
     </message>
     <message>
         <source>Copyright © %1</source>
@@ -136,11 +136,11 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>Reverse sample</source>
-        <translation>Reproducir la muestra en reversa</translation>
+        <translation>Revertir muestra</translation>
     </message>
     <message>
         <source>If you enable this button, the whole sample is reversed. This is useful for cool effects, e.g. a reversed crash.</source>
-        <translation>Si activas este botón, la muestra se reproducirá en reversa. Esto es útil para lograr efectos interesantes, por ejemplo el sonido de un platillo en reversa.</translation>
+        <translation>Si activas este botón, la muestra se reproducirá revertida. Esto es útil para lograr efectos interesantes como el sonido revertido de un platillo entre otros.</translation>
     </message>
     <message>
         <source>Amplify:</source>
@@ -148,7 +148,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>With this knob you can set the amplify ratio. When you set a value of 100% your sample isn&apos;t changed. Otherwise it will be amplified up or down (your actual sample-file isn&apos;t touched!)</source>
-        <translation>Con esta perilla puedes establecer la proporción de amplificación. Con un valor de 100% tu muestra no ha cambiado. Valores superiores al 100% amplificarán tu muestra y valores menores tendrán el efecto contrario (¡el archivo original de tu muestra no se modificará!)</translation>
+        <translation>Con este regulador puedes establecer la proporción de amplificación. Con un valor de 100% tu muestra no cambiará. Con valores superiores a 100% amplificarán tu muestra y con valores menores tendrán el efecto contrario (¡el archivo original de tu muestra no se modificará!)</translation>
     </message>
     <message>
         <source>Startpoint:</source>
@@ -164,7 +164,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>Enabling this option makes the sample continue playing across different notes - if you change pitch, or the note length stops before the end of the sample, then the next note played will continue where it left off. To reset the playback to the start of the sample, insert a note at the bottom of the keyboard (&lt; 20 Hz)</source>
-        <translation>Activando esta opción la muestra se ejecutará a lo largo de las distintas notas. Si cambias la altura o la nota termina antes que la muestra, la nota siguente reproducirá la muestra desde el lugar en que la nota anterior terminó. Para reiniciar la reproducción desde el principio de la muestra, inserta una nota en el extremo grave del teclado (&lt; 20 Hz)</translation>
+        <translation>Activando esta opción, la muestra se ejecutará a lo largo de las distintas notas. Si cambias la altura o la nota termina antes que la muestra, la nota siguente reproducirá la muestra desde el lugar en que la nota anterior terminó. Para reiniciar la reproducción desde el principio de la muestra, inserta una nota en el extremo grave del teclado (&lt; 20 Hz)</translation>
     </message>
     <message>
         <source>Disable loop</source>
@@ -172,7 +172,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>This button disables looping. The sample plays only once from start to end. </source>
-        <translation>Este botón desactiva la reproducción en bucle. La muestra es reproducida una sola vez del comienzo hasta el final.</translation>
+        <translation>Este botón desactiva la reproducción en bucle. La muestra se reproduce una sola vez de principio a fin.</translation>
     </message>
     <message>
         <source>Enable loop</source>
@@ -180,19 +180,19 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>This button enables forwards-looping. The sample loops between the end point and the loop point.</source>
-        <translation>Este botón activa el bucle hacia adelante. La muestra se repite entre el punto final y el inicio del bucle (no el de la muestra).</translation>
+        <translation>Este botón activa la reproducción en bucle. La muestra se repite de principio a fin continuamente.</translation>
     </message>
     <message>
         <source>This button enables ping-pong-looping. The sample loops backwards and forwards between the end point and the loop point.</source>
-        <translation>Este botón activa el bucle en ping-pong. La muestra se reproduce en bucle hacia atrás y hacia adelante entre el punto final y el inicio del bucle.</translation>
+        <translation>Este botón activa la reproducción en bucle de ping-pong (efecto revote). La muestra se reproduce de principio a fin y viceversa continuamente.</translation>
     </message>
     <message>
         <source>With this knob you can set the point where AudioFileProcessor should begin playing your sample. </source>
-        <translation>Con esta perilla puedes definir el punto a partir del cual el AudioFileProcessor debe comenzar a reproducir tu muestra.</translation>
+        <translation>Con este regulador puedes definir el punto inicial en el que AudioFileProcessor reproducirá tu muestra.</translation>
     </message>
     <message>
         <source>With this knob you can set the point where AudioFileProcessor should stop playing your sample. </source>
-        <translation>Con esta perilla puedes definir el punto hasta donde el AudioFileProcessor debe reproducir tu muestra.</translation>
+        <translation>Con este regulador puedes definir el punto final en el que AudioFileProcessor reproducirá tu muestra.</translation>
     </message>
     <message>
         <source>Loopback point:</source>
@@ -200,7 +200,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>With this knob you can set the point where the loop starts. </source>
-        <translation>Con esta perilla puedes elegir el punto en el que comienza el bucle.</translation>
+        <translation>Con este regulador puedes elegir el punto inicial del bucle.</translation>
     </message>
 </context>
 <context>
@@ -218,7 +218,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation>LMMS fué rechazado por JACK por alguna razón. Por lo tanto, el motor de JACK de LMMS ha sido reiniciado. Tendrás que realizar las conexiones manuales nuevamente.</translation>
+        <translation>LMMS fué rechazado por JACK; por lo tanto, el motor JACK de LMMS ha sido reiniciado. Tendrás que realizar las conexiones manuales nuevamente.</translation>
     </message>
     <message>
         <source>JACK server down</source>
@@ -226,7 +226,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation>El servidor de JACK parece haberse detenido y no hemos podido lanzar una nueva instancia. Por lo tanto LMMS no puede continuar. Debes guardar tu proyecto y reiniciar JACK y LMMS.</translation>
+        <translation>El servidor JACK parece haberse detenido y no hemos podido lanzar una nueva instancia; por lo tanto, LMMS no puede continuar. Debes guardar tu proyecto y reiniciar JACK y LMMS.</translation>
     </message>
     <message>
         <source>CLIENT-NAME</source>
@@ -331,7 +331,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>Remove connection</source>
-        <translation>Quitar conexión</translation>
+        <translation>Eliminar conexión</translation>
     </message>
     <message>
         <source>Connect to controller...</source>
@@ -339,7 +339,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>Remove song-global automation</source>
-        <translation>Borrar la automatización global de la canción</translation>
+        <translation>Eliminar la automatización global de la canción</translation>
     </message>
     <message>
         <source>Remove all linked controls</source>
@@ -349,8 +349,8 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
 <context>
     <name>AutomationEditor</name>
     <message>
-        <source>Please open an automation pattern with the context menu of a control!</source>
-        <translation>¡Por favor abre un patrón de automatización con el menú contextual de un control!</translation>
+        <source>Please, open an automation pattern with the context menu of a control!</source>
+        <translation>¡Por favor, abre un patrón de automatización con el menú contextual de un control!</translation>
     </message>
     <message>
         <source>Values copied</source>
@@ -368,8 +368,8 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
         <translation>Reproducir/Pausar el patrón actual (Espacio)</translation>
     </message>
     <message>
-        <source>Click here if you want to play the current pattern. This is useful while editing it.  The pattern is automatically looped when the end is reached.</source>
-        <translation>Haz click aquí para reproducir el patrón actual. Te será útil para editarlo.  El patrón se reproducirá automáticamente en bucle al llegar al final.</translation>
+        <source>Click here if you want to play the current pattern. This is useful while editing it. The pattern is automatically looped when the end is reached.</source>
+        <translation>Haz click aquí para reproducir el patrón actual. Te será útil para editarlo. El patrón se reproducirá automáticamente en bucle al llegar al final.</translation>
     </message>
     <message>
         <source>Stop playing of current pattern (Space)</source>
@@ -389,19 +389,19 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>Flip vertically</source>
-        <translation>Voltear verticalmente</translation>
+        <translation>Invertir verticalmente</translation>
     </message>
     <message>
         <source>Flip horizontally</source>
-        <translation>Voltear horizontalmente</translation>
+        <translation>Invertir horizontalmente</translation>
     </message>
     <message>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>
-        <translation>Haz click aquí para invertir el patrón. Los puntos se voltearán el el eje y.</translation>
+        <translation>Haz click aquí para invertir el patrón. Los puntos se invertirán en el eje y.</translation>
     </message>
     <message>
-        <source>Click here and the pattern will be reversed. The points are flipped in the x direction.</source>
-        <translation>Haz click aquí para retrogradar el patrón. Los puntos se volterán en el eje x.</translation>
+        <source>Click here and the pattern will be inverted. The points are flipped in the x direction.</source>
+        <translation>Haz click aquí para invertir el patrón. Los puntos se invertirán en el eje x.</translation>
     </message>
     <message>
         <source>Click here and draw-mode will be activated. In this mode you can add and move single values.  This is the default mode which is used most of the time.  You can also press &apos;Shift+D&apos; on your keyboard to activate this mode.</source>
@@ -413,15 +413,15 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>Discrete progression</source>
-        <translation>Interpolación escalonada</translation>
+        <translation>Progresión escalonada</translation>
     </message>
     <message>
         <source>Linear progression</source>
-        <translation>Interpolación lineal</translation>
+        <translation>Progresión lineal</translation>
     </message>
     <message>
         <source>Cubic Hermite progression</source>
-        <translation>Interpolación de Hermite (suave)</translation>
+        <translation>Progresión de Hermite (suave)</translation>
     </message>
     <message>
         <source>Tension value for spline</source>
@@ -429,19 +429,19 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>A higher tension value may make a smoother curve but overshoot some values. A low tension value will cause the slope of the curve to level off at each control point.</source>
-        <translation>Un valor de alta tensión hará una curva más suave pero exederá ciertos valores. Un valor de baja tensión provocará que la pendiente de la curva se estabilice en cada punto de control.</translation>
+        <translation>Un valor de alta tensión hará una curva más suave pero excederá ciertos valores. Un valor de baja tensión hará que la pendiente de la curva se estabilice en cada punto de control.</translation>
     </message>
     <message>
-        <source>Click here to choose discrete progressions for this automation pattern.  The value of the connected object will remain constant between control points and be set immediately to the new value when each control point is reached.</source>
-        <translation>Haz click aquí para seleccionar la interpolación escalonada para este patrón de automatización. El valor afectado permanecerá constante entre los puntos de control y pasará inmediatamente al nuevo valor al alcanczar cada nuevo punto de control.</translation>
+        <source>Click here to choose discrete progressions for this automation pattern. The value of the connected object will remain constant between control points and be set immediately to the new value when each control point is reached.</source>
+        <translation>Haz click aquí para seleccionar la pregresión escalonada para este patrón de automatización. El valor afectado permanecerá constante entre los puntos de control y pasará inmediatamente al nuevo valor al alcanczar cada nuevo punto de control.</translation>
     </message>
     <message>
-        <source>Click here to choose linear progressions for this automation pattern.  The value of the connected object will change at a steady rate over time between control points to reach the correct value at each control point without a sudden change.</source>
-        <translation>Haz click aquí para seleccionar interpolación lineal para este patrón de automatización.El valor afectado cambiará de manera constante entre los puntos de control para alcanzar el valor correcto en cada punto sin cambios súbitos entre ellos.</translation>
+        <source>Click here to choose linear progressions for this automation pattern. The value of the connected object will change at a steady rate over time between control points to reach the correct value at each control point without a sudden change.</source>
+        <translation>Haz click aquí para seleccionar progresión lineal para este patrón de automatización. El valor afectado cambiará de manera constante entre los puntos de control para alcanzar el valor correcto en cada punto sin cambios súbitos entre ellos.</translation>
     </message>
     <message>
-        <source>Click here to choose cubic hermite progressions for this automation pattern.  The value of the connected object will change in a smooth curve and ease in to the peaks and valleys.</source>
-        <translation>Haz click aquí para seleccionar la interpolación de Hermite para este patrón. El valor afectado cambiará formando una curva uniforme y suavizará los extremos altos y bajos.</translation>
+        <source>Click here to choose cubic hermite progressions for this automation pattern. The value of the connected object will change in a smooth curve and ease in to the peaks and valleys.</source>
+        <translation>Haz click aquí para seleccionar la progresión de Hermite para este patrón. El valor afectado cambiará formando una curva uniforme y suavizará los extremos altos y bajos.</translation>
     </message>
     <message>
         <source>Cut selected values (%1+X)</source>
@@ -456,7 +456,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
         <translation>Pegar desde el portapapeles (%1+V)</translation>
     </message>
     <message>
-        <source>Click here and selected values will be cut into the clipboard.  You can paste them anywhere in any pattern by clicking on the paste button.</source>
+        <source>Click here and selected values will be cut into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
         <translation>Haz click aquí y los valores seleccionados se moverán al portapapeles. Puedes pegarlos en cualquier lugar de cualquier patrón haciendo click en el botón &quot;pegar&quot;.</translation>
     </message>
     <message>
@@ -469,7 +469,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>Tension: </source>
-        <translation>Tensión:</translation>
+        <translation>Tensión: </translation>
     </message>
     <message>
         <source>Automation Editor - no pattern</source>
@@ -481,11 +481,11 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>Edit actions</source>
-        <translation>Acciones de edición</translation>
+        <translation>Acciones de Edición</translation>
     </message>
     <message>
         <source>Interpolation controls</source>
-        <translation>Controles de interpolación</translation>
+        <translation>Controles de Interpolación</translation>
     </message>
     <message>
         <source>Timeline controls</source>
@@ -493,11 +493,11 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>Zoom controls</source>
-        <translation>Controles de Acercamiento</translation>
+        <translation>Controles de Zoom</translation>
     </message>
     <message>
         <source>Quantization controls</source>
-        <translation>Controles de cuantización</translation>
+        <translation>Controles de Cuantización</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
@@ -508,7 +508,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     <name>AutomationPattern</name>
     <message>
         <source>Drag a control while pressing &lt;%1&gt;</source>
-        <translation>Arrastre un control mientras presiona &lt;%1&gt;</translation>
+        <translation>Arrastra un control mientras presionas &lt;%1&gt;</translation>
     </message>
 </context>
 <context>
@@ -547,11 +547,11 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>Flip Vertically (Visible)</source>
-        <translation>Voltear verticalmente (Visible)</translation>
+        <translation>Invertir verticalmente (Visible)</translation>
     </message>
     <message>
         <source>Flip Horizontally (Visible)</source>
-        <translation>Voltear horizontalmente (Visible)</translation>
+        <translation>Invertir horizontalmente (Visible)</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
@@ -561,35 +561,35 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
 <context>
     <name>AutomationTrack</name>
     <message>
-        <source>Automation track</source>
+        <source>Automation Track</source>
         <translation>Pista de Automatización</translation>
     </message>
 </context>
 <context>
     <name>BBEditor</name>
     <message>
-        <source>Beat+Bassline Editor</source>
-        <translation>Editor de Ritmo+Bajo</translation>
+        <source>Beat/Bassline Editor</source>
+        <translation>Editor de Ritmo/Bajo</translation>
     </message>
     <message>
-        <source>Play/pause current beat/bassline (Space)</source>
-        <translation>Reproducir/pausar el ritmo/bajo actual (espacio)</translation>
+        <source>Play/pause current Beat/Bassline (Space)</source>
+        <translation>Reproducir/pausar el Ritmo/Bajo actual (Espacio)</translation>
     </message>
     <message>
-        <source>Stop playback of current beat/bassline (Space)</source>
-        <translation>Detener la reproducción del ritmo/bajo actual (Espacio)</translation>
+        <source>Stop playback of current Beat/Bassline (Space)</source>
+        <translation>Detener la reproducción del Ritmo/Bajo actual (Espacio)</translation>
     </message>
     <message>
-        <source>Click here to play the current beat/bassline.  The beat/bassline is automatically looped when its end is reached.</source>
+        <source>Click here to play the current Beat/Bassline.  The Beat/Bassline is automatically looped when its end is reached.</source>
         <translation>Haz click aquí para reproducir el Ritmo/Bajo actual. El Ritmo/bajo se reproducirá automáticamente desde el principio cada vez que llegue al final.</translation>
     </message>
     <message>
-        <source>Click here to stop playing of current beat/bassline.</source>
+        <source>Click here to stop playing of current Beat/Bassline.</source>
         <translation>Haz click aquí para detener el Ritmo/Bajo actual.</translation>
     </message>
     <message>
-        <source>Add beat/bassline</source>
-        <translation>Agregar Ritmo/bajo</translation>
+        <source>Add Beat/Bassline</source>
+        <translation>Agregar Ritmo/Bajo</translation>
     </message>
     <message>
         <source>Add automation-track</source>
@@ -612,8 +612,8 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
         <translation>Acciones de pista y pasos</translation>
     </message>
     <message>
-        <source>Clone Steps</source>
-        <translation>Clonar Pasos</translation>
+        <source>Clone steps</source>
+        <translation>Clonar pasos</translation>
     </message>
     <message>
         <source>Add sample-track</source>
@@ -623,8 +623,8 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
 <context>
     <name>BBTCOView</name>
     <message>
-        <source>Open in Beat+Bassline-Editor</source>
-        <translation>Abrir en Editor de Ritmo+Bajo</translation>
+        <source>Open in Beat/Bassline-Editor</source>
+        <translation>Abrir en Editor de Ritmo/Bajo</translation>
     </message>
     <message>
         <source>Reset name</source>
@@ -674,11 +674,11 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>RATIO</source>
-        <translation>RAZÓN</translation>
+        <translation>PROP</translation>
     </message>
     <message>
         <source>Ratio:</source>
-        <translation>Razón:</translation>
+        <translation>Proporción:</translation>
     </message>
 </context>
 <context>
@@ -2253,8 +2253,8 @@ Puedes quitar y mover los canales FX a través del menú contextual. Accede a es
 <context>
     <name>FxMixerView</name>
     <message>
-        <source>FX-Mixer</source>
-        <translation>Mezcladora FX</translation>
+        <source>Mixer</source>
+        <translation>Mezcladora</translation>
     </message>
     <message>
         <source>FX Fader %1</source>
