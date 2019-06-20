@@ -14,8 +14,8 @@
         <translation>Acerca de</translation>
     </message>
     <message>
-        <source>LMMS - easy music production for everyone</source>
-        <translation>LMMS - producción musical fácil al alcance de todos</translation>
+        <source>LMMS - Easy music production for everyone</source>
+        <translation>LMMS - Producción musical fácil al alcance de todos</translation>
     </message>
     <message>
         <source>Authors</source>
